@@ -1,0 +1,5 @@
+rootProject.name = 'eurekaexaple'
+include 'eureka'
+include 'gateway'
+include 'project'
+
