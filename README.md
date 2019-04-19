@@ -1,2 +1,3 @@
 # eurekaexaple
-主要是测试，jdk动态代理和cglib代理
+主要是测试，jdk动态代理和cglib代理 
+project 目录
